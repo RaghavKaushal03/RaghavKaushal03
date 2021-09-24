@@ -12,7 +12,7 @@ A 20Y/O Competitive Programming Coder🌈 and Web developer🎯 from India. I'm 
 ![focus](https://img.shields.io/badge/focus-FrontEnd-brightgreen)
 ![living](https://img.shields.io/badge/living-Mysore|Agra-3c9)
 
-<img width="50%" align="right" alt="Night Coding" src="../RaghavKaushal03/assets/Night-Coding.gif" />
+<img width="50%" align="right" alt="Night Coding" src="assets/Night-Coding.gif" />
 
 - 🌱 I’m currently learning NodeJs, Python and VueJs
 - 👯 I’m looking to collaborate on Web Dev Projects
@@ -29,21 +29,21 @@ A 20Y/O Competitive Programming Coder🌈 and Web developer🎯 from India. I'm 
 
 <div align="center">
   
-<img src="../RaghavKaushal03/assets/logos/c++.png" height="60" width="60">
-<img src="../RaghavKaushal03/assets/logos/python.png" height="60" width="60">
-<img src="../RaghavKaushal03/assets/logos/JS.png" height="60" width="60">
-<img src="../RaghavKaushal03/assets/logos/node.jpeg" height="60" width="60">
-<img src="../RaghavKaushal03/assets/logos/css.png" height="60" width="60">
-<img src="../RaghavKaushal03/assets/logos/html.png" height="60" width="60">
+<img src="assets/logos/c++.png" height="60" width="60">
+<img src="assets/logos/python.png" height="60" width="60">
+<img src="assets/logos/JS.png" height="60" width="60">
+<img src="assets/logos/node.jpeg" height="60" width="60">
+<img src="assets/logos/css.png" height="60" width="60">
+<img src="assets/logos/html.png" height="60" width="60">
 
 <br>
 
-<img src="../RaghavKaushal03/assets/logos/icons8-vue-js-48.png" height="60" width="60"/>
-<img src="../RaghavKaushal03/assets/logos/sql.png" height="60" width="60">
-<img src="../RaghavKaushal03/assets/logos/git.png" height="60" width="60">
-<img src="../RaghavKaushal03/assets/logos/vs.png" height="60" width="60">
-<img src="../RaghavKaushal03/assets/logos/bootstrap.png" height="60" width="60">
-<img height="60" src="../RaghavKaushal03/assets/logos/icons8-firebase-48.png">
+<img src="assets/logos/icons8-vue-js-48.png" height="60" width="60"/>
+<img src="assets/logos/sql.png" height="60" width="60">
+<img src="assets/logos/git.png" height="60" width="60">
+<img src="assets/logos/vs.png" height="60" width="60">
+<img src="assets/logos/bootstrap.png" height="60" width="60">
+<img height="60" src="assets/logos/icons8-firebase-48.png">
 
 </div>
 
