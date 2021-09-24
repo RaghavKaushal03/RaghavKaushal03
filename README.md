@@ -1,4 +1,4 @@
-![](../RaghavKaushal03/assets/header_.png)
+![](assets/header_.png)
 
 <h1 align="center"> नमस्ते (Namaste), I'm Raghav Kaushal <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
